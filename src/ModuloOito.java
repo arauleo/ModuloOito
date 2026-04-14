@@ -31,7 +31,7 @@ public class ModuloOito {
         /* 5. Nome */
         if (nome.length() > 6){
             System.out.println("\nNome repetido " + n + " vezes:\n");
-            for (int i = 0; i < n; i++){
+            for (int z = 0; z < n; z++){
                 System.out.println(nome);
             }
         } else {
